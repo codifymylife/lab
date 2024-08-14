@@ -1,0 +1,6 @@
+name = input("Please enter your name: ")
+TPnum = input("Please enter your TP number:  ")
+mark = int(input("Please enter your marks: "))
+grade = input("Please enter your grade:  ")
+cgpa = float(input("Please enter your CGPA: "))
+print(f"\nYour details are as follows:\nName: {name}\nTP number: {TPnum}\nMarks: {mark}\nGrade: {grade}\nCGPA: {cgpa}\nThanks for registration")
